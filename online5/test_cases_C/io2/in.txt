@@ -1,0 +1,40 @@
+I 1
+H
+I 2 
+H
+I 3
+H
+I 4 
+H
+I 5
+H
+I 6 
+H
+I 7
+H
+I 9
+H
+I 10
+H
+I 8
+H
+D 1
+H
+D 5
+H
+D 2 
+H
+D 3 
+H
+D 4
+H 
+D 9
+H
+D 8
+H
+D 10
+H
+D 6
+H
+D 7
+H

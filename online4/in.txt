@@ -1,0 +1,11 @@
+A 1
+A 2
+B 8
+B 10
+C A
+C B
+A 30
+C A
+C A
+C A
+C E

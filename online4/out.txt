@@ -1,0 +1,14 @@
+A takes card 1 from deck
+A takes card 2 from deck
+B takes card 8 from deck
+B takes card 10 from deck
+C takes card 1 from A
+C takes card 10 from B
+A takes card 30 from deck
+C takes card 2 from A
+C takes card 30 from A
+A has no cards
+C returns card 1
+C returns card 10
+C returns card 2
+C returns card 30
